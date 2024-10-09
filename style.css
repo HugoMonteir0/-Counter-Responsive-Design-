@@ -1,0 +1,16 @@
+.container {
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container1 {
+    border: 1px solid rgb(255, 78, 78);
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: top-center;
+    
+}
